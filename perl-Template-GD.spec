@@ -14,8 +14,9 @@ Release:	1
 # same as perl
 License:	GPL v1+ or or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Template/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	9052bef9bd799e143990e67422c14b81
+URL:		http://search.cpan.org/dist/Template-GD/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	perl(File::Spec) >= 0.6
 BuildRequires:	perl-AppConfig >= 1.52
