@@ -7,7 +7,7 @@
 %define		pdir	Template
 %define		pnam	GD
 Summary:	GD plugins for Template Toolkit - graphics operations
-Summary(pl):	Wtyczki GD dla pakietu Template Toolkit - operacje graficzne
+Summary(pl.UTF-8):   Wtyczki GD dla pakietu Template Toolkit - operacje graficzne
 Name:		perl-Template-GD
 Version:	2.66
 Release:	1
@@ -38,8 +38,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 GD plugins for Template Toolkit - interface to GD graphics library.
 
-%description -l pl
-Wtyczki GD dla pakietu Template Tookit. Stanowi± one interfejs do
+%description -l pl.UTF-8
+Wtyczki GD dla pakietu Template Tookit. StanowiÄ… one interfejs do
 biblioteki graficznej GD.
 
 %prep
