@@ -9,7 +9,7 @@ Summary:	GD plugins for Template Toolkit - graphics operations
 Summary(pl.UTF-8):	Wtyczki GD dla pakietu Template Toolkit - operacje graficzne
 Name:		perl-Template-GD
 Version:	2.66
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or or Artistic
 Group:		Development/Languages/Perl
